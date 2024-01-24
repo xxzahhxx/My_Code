@@ -1,1 +1,1 @@
-this is kinda like my  portfolio for C and C++ projects
+This is kinda like my portfolio mostly for **C** projects
